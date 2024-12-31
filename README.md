@@ -1,5 +1,9 @@
 # Behind Netflix's Recommendations: The Influence of Singular Value Decomposition (SVD)
 
+Paper : [Behind Netflix's Recommendations: The Influence of Singular Value Decomposition (SVD) Paper](https://drive.google.com/file/d/1AASLcsuRkRGMpwyK9hQOH0qUAazCK2QL/view?usp=sharing)
+
+Video : [Youtube Video](https://youtu.be/c6PH7cX6ouY)
+
 # Movie Recommendation System
 
 This is a movie recommendation system that uses collaborative filtering with Singular Value Decomposition (SVD) to generate personalized movie recommendations based on user ratings.
